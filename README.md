@@ -2,7 +2,8 @@
 
 
 
-https://user-images.githubusercontent.com/88061960/154394335-964fc646-5a74-4db7-850f-b508289edf09.mp4
+
+![20220217_0202571](https://user-images.githubusercontent.com/88061960/154397503-68307aa6-5dae-4e28-ae63-16ec98b1b2d1.gif)
 
  
 ## About Me
