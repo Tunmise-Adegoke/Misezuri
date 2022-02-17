@@ -7,9 +7,7 @@
 
  
 ## About Me
-- 👋 Hi, I’m Tunmise Adegoke.
-- 👀 I’m a Flutter Enthusiast.
-- 🌱 I’m currently learning Firebase.
+- 🌱 I’m currently working on Firebase.
 - 💞️ I’m looking to collaborate on anything flutter.
 - 👩‍🦱 Pronouns: she/her.
 - ✨ Fun fact: I like dancing.....don't think I'm Micheal Jackson or something, but I'm pretty good-ish.
